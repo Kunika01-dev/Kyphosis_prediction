@@ -3,7 +3,7 @@
 Kyphosis is  an abnormally excessive convex curvature of the spine. 
 The dataset used in this project contains data whether the state of Kyphosis is present / absent after the operation , Age of the person (in months), the number is a number of vertebrae involved in the operation and the start is the no. of first or the top most vertebrae that was operated on.
 
-Applied decision tree and random forest algorithm on the  data set and on comparing the output result of both model, Random Forest yields better result. 
+Applied decision tree and random forest algorithm on the  data set to predict whether the condition of Kyphosis is present or absent in an individual and on comparing the output result of both model, Random Forest yields better result. 
 
 <pre>
 ➡️Import all the essential libraries
