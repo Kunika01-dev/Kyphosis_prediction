@@ -1,4 +1,4 @@
-# Decision Tree
+<b>Kyphosis Prediction</b>
 
 Kyphosis is  an abnormally excessive convex curvature of the spine. 
 The dataset used in this project contains data whether the state of Kyphosis is present / absent after the operation , Age of the person (in months), the number is a number of vertebrae involved in the operation and the start is the no. of first or the top most vertebrae that was operated on.
